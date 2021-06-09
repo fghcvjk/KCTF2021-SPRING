@@ -1,0 +1,9 @@
+看雪.深信服 KCTF 2021 春季赛!
+https://ctf.pediy.com/game-team_list-14-17.htm
+
+本题目以 <Window平台CrackMe 方案二（新规则）> 参赛
+
+公开用户名及序列号.txt 包含了公开的一组用户名及其对应的序列号
+
+要求破解者求用户名为 KCTF 所对应的序列号
+
